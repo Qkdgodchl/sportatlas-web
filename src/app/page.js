@@ -13,7 +13,7 @@ export default function Page() {
           라이브로 한눈에.
         </h1>
         <p className="mt-4 max-w-2xl text-zinc-300">
-          MLB · NBA · KBO · EPL 등 주요 리그의 고급 스탯 시각화와 라이브 스코어를 한 곳에서.
+          MLB · NBA · KBO 등 주요 리그의 고급 스탯 시각화와 라이브 스코어를 한 곳에서.
         </p>
 
         <div className="mt-8 flex gap-3">
