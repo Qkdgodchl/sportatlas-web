@@ -5,7 +5,7 @@ export default function Page() {
       {/* HERO */}
       <section className="mx-auto max-w-5xl px-6 pt-28 pb-16">
         <div className="inline-flex items-center gap-2 rounded-full border border-zinc-700/60 px-3 py-1 text-xs text-zinc-400">
-          글로벌 커버리지 · 실시간 스코어 · 합법 중계 연동
+          글로벌 · 실시간 스코어 · 합법 중계 연동
         </div>
         <h1 className="mt-4 text-4xl md:text-6xl font-extrabold tracking-tight">
           전 세계 스포츠 통계, <br className="hidden md:block" />
