@@ -7,7 +7,7 @@ export const metadata = {
   description: "전 세계 스포츠 리그의 통계 시각화 · 실시간 스코어 · 합법 중계 연동",
   openGraph: {
     title: "SportAtlas",
-    description: "전 세계 스포츠 통계/스코어/중계",
+    description: "전 스포츠 통계/스코어/중계",
     url: "/",
     siteName: "SportAtlas",
     type: "website",
